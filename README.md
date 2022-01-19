@@ -1,2 +1,2 @@
 # twitter-vaccination-stance
-Twitter Vaccination
+General Vaccination Stance of People on twitter
